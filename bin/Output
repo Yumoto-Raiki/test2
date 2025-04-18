@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>form1.html</title>
+    </head>
+    <body>
+        <form action="https://www.google.co.jp/search" method="get">
+            名前：<input name="q" type="text">
+            <p><button type="submit">search</button></p>
+        </form>
+    </body>
+</html>
